@@ -2,5 +2,33 @@
 
 html {
   font-family: Verdana, sans-serif;
+  font-weight: normal;
   background-color: black;
+  text-align: center; /* aligns all elements to the center (including images and video)*/
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  font-size: 42px;
+  color: white;
+  font-weight: 300;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
+  display: block;
+}
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  text-align: right;
 }
